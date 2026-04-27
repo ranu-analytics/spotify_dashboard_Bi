@@ -1,7 +1,7 @@
 
 ## 🎧 Spotify Analytics Dashboard
 
-[![Spotify Dashboard](https://github.com/ranu-analytics/spotify_dashboard_Bi/blob/main/spotify%20dasboard.pbix))
+![Spotify Dashboard](spotify-dashboard.png)
 
 ---
 
