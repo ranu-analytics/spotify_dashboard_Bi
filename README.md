@@ -2,6 +2,7 @@
 ## 🎧 Spotify Analytics Dashboard
 
 ![Spotify Dashboard](spotify-dashboard.png)
+
 ---
 
 ###  Project Overview
